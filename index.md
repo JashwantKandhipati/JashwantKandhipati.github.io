@@ -5,6 +5,7 @@ I am a Computer Science student at California State University Fullerton, and I 
 ## Favorite CPSC 120L Labs
 
 * Lab 04, Part-1
+  
     This lab was also fun as it was cool to be able to use the # include math and be able to use the math source files and have the program do
 all the calculations for me. Although it was not easy to implement, once my partner and I were able to implement it was really cool to be
 able to input any measurement and instantly have it converted into different measurements. 
